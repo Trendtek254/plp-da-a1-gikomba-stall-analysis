@@ -24,5 +24,7 @@ Click Run all.
 Wait for the notebook to execute its cells.
 *My Top 3 Findings Are:
 **1.The business is growing as there was an increased sale in week 2 by 10.66% compared to week 1 though the period covered is short to determine growth.
+
 **2.The average sale for weekend is 45.20% higher than the weekdays average sale.
+
 **3.Tomatoes and sukuma are the products that are out of stock.
